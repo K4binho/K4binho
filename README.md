@@ -1,6 +1,6 @@
 ### Oii, Eu me chamo Matheus Heinrique 👋
 - 🔭 Pretendo trabalha com Back-end
-- 🌱 Estudante de Desenvolvimento de Software pela Cubos Academy
+- 🌱 Estudante de Desenvolvimento na Software pela Cubos Academy
 
 <div align="center">
   <a href="https://github.com/K4binho">
