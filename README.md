@@ -31,8 +31,7 @@
   
   <div>
       <div>
-    ###        CONTRIBUIÇÕES
+CONTRIBUIÇÕES:
         
-          <div>
   ![Snake animation](https://github.com/K4binho/K4binho/blob/output/github-contribution-grid-snake.svg)
 
