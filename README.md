@@ -2,7 +2,7 @@
 - 👨‍🎓  Estudante.
 - 👷  Formado em Técnico em eletrônica pelo IFAM-CMDI.
 - 👨‍💻 Estudante de Desenvolvimento na Software pela Cubos Academy.
-- 👨‍💻 Pretendo trabalha com Back-end e front-end.
+- 👨‍💻 Pretendo trabalhar com Back-end e front-end.
 
 
 <div align="center">
