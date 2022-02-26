@@ -1,4 +1,4 @@
-### Oii, Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV.
+### Oii!, Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV.
 - 👨‍🎓  Estudante.
 - 👷  Formado em Técnico em eletrônica pelo IFAM-CMDI.
 - 👨‍💻 Estudante de Desenvolvimento na Software pela Cubos Academy.
