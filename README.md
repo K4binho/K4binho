@@ -5,7 +5,8 @@
 - 👷  Formado em Técnico em eletrônica pelo IFAM-CMDI.
 - 👨‍💻 Estudante de Desenvolvimento na Software pela Cubos Academy.
 - 👨‍💻 Pretendo trabalhar com Back-end e front-end.
-- ☕ café é amor, café é vida, tome café
+- ☕ Café é amor, café é vida, tome café.
+- ♉ Se quer uma coisa bem feita, faça você mesmo.
 
 ##
 
