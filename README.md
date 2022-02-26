@@ -1,7 +1,7 @@
 ##  
 ### Oii!, Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV.
 
-- 👨‍🎓  Estudante.  <img align="right" width="145" height="145" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
+- 👨‍🎓  Estudante.  <img align="right" width="167" height="167" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
 - 👷  Formado em Técnico em eletrônica pelo IFAM-CMDI.
 - 👨‍💻 Estudante de Desenvolvimento na Software pela Cubos Academy.
 - 👨‍💻 Pretendo trabalhar com Back-end e front-end.
