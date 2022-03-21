@@ -8,7 +8,7 @@
 ###  <img align="right" width="200px" height="290px" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
 - Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV :)
 
-- Estudante de Desenvolvimento na Software pela @CubosAcademy. 
+- Estudante de Desenvolvimento na Software pela <a href="https://github.com/cubos-academy">@CubosAcademy.</a>
  ###  <img align="right" width="150px" height="213px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif"> 
 - Formado em Técnico em eletrônica pelo IFAM-CMDI.
 
