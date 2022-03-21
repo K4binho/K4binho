@@ -7,9 +7,9 @@
 ## 💡 Sobre mim:
 ###  <img align="right" width="200px" height="200px" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
 - Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV :)
-###<img align="right" width="150px" height="150px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif">
+###  <img align="right" width="150px" height="150px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif">
 - Estudante de Desenvolvimento na Software pela Cubos Academy.
-###<img align="right" width="70px" height="70px" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"></p>
+###  <img align="right" width="70px" height="70px" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif"></p>
 - Formado em Técnico em eletrônica pelo IFAM-CMDI.
 - Pretendo trabalhar com Back-end e front-end.
 - Café é amor, café é vida, tome café.
