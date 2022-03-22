@@ -1,8 +1,6 @@
-<h1 align="center" >Oii!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center" >Aoba,tudo bom?  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
-
-##
 
 ## 💡 Sobre mim:
 ###  <img align="right" width="200px" height="290px" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
@@ -27,19 +25,21 @@
   <a href="https://github.com/K4binho">
   <img width="48%", img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img width="48%", img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple"/>  
+   
 </div>
 
 ##  
-    
+
 ###        LINGUAGENS QUE ESTOU CONHECENDO:
  
-
 <div align-items="center">
+ 
 <img align="left" width="100px" height="100px" src="https://network.grupoabril.com.br/wp-content/uploads/sites/4/2016/12/anime-tired.gif">   
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <br><br><br>
+ 
 </div>
 
  
