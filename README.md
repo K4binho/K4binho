@@ -8,7 +8,7 @@
 
 - Estudante de Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a>
  ###  <img align="right" width="150px" height="213px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif"> 
-- Formado em Técnico em eletrônica pelo  <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a>
+- Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a>
 
 - Pretendo trabalhar com Back-end e front-end.
 
