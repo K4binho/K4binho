@@ -3,12 +3,12 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim:
-- Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV :) 
+- Eu me chamo Matheus Heinrique tenho 19 anos sou técnico em eletrônica e futuro DEV :) 
 - Estudante de Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a> 
 - Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a><br>
 - Pretendo trabalhar com Back-end e front-end.<br>
-- Café é amor, café é vida, tome café.<br>
 - Anime é amor, anime é vida, assista anime.<br>
+- Café é amor, café é vida, tome café.<br>
 - ♉ Sabedoria para resolver e paciência para fazer/refazer.
 
 ##
