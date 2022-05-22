@@ -7,14 +7,14 @@
 - Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV :) 
 
 - Estudante de Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a>
- ###  <img align="right" width="150px" height="213px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif"> 
 - Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a>
-
 - Pretendo trabalhar com Back-end e front-end.
-
 - Café é amor, café é vida, tome café.
-###  <img align="right" width="150px" height="70px" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif">
 - Anime é amor, anime é vida, assista anime.
+
+<img align="right" width="150px" height="213px" src="https://user-images.githubusercontent.com/74678483/159194534-443568cd-2107-4112-8c48-58a0364849a7.gif"> 
+
+<img align="right" width="150px" height="70px" src="https://i.pinimg.com/originals/4f/2d/a6/4f2da6dfcf48e48a5715c8a13dcc44f1.gif">
 
 - ♉ Sabedoria para resolver e paciência para fazer/refazer.
 
