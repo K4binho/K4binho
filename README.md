@@ -3,10 +3,10 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim:
-###  <img align="right" width="200px" height="290px" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif">
+
 - Eu me chamo Matheus Heinrique tenho 18 anos sou técnico em eletrônica e futuro DEV :) 
 
-- Estudante de Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a>
+- Estudante de Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a> <img align="right" width="200px" height="290px" src="https://user-images.githubusercontent.com/74678483/155821617-e65f9a0c-01a1-4866-abf5-8e1795591e5b.gif"><br>
 - Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a>
 - Pretendo trabalhar com Back-end e front-end.
 - Café é amor, café é vida, tome café.
