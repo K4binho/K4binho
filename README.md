@@ -1,5 +1,3 @@
-<h1 align="center" >Aoba,tudo bom?  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim:
@@ -32,7 +30,7 @@
 ###        REDES SOCIAIS:
 
 <div align-items="center">
-      <img align="left" width="100px" height="90px" src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif">   
+      <img align="left" width="100px" height="90px" src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif">
       <a href = "mailto:heinriquem158@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">       </a>
       <a href="https://www.linkedin.com/in/matheus-heinrique-888312182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://www.youtube.com/channel/UCr6xsD3VrYNbmq0KLLCXNLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -41,6 +39,7 @@
       <a href="https://github.com/K4binho"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank">
       </a>
 </div>
+     <br>   <br>
 
 ###  CONTRIBUIÇÕES:
         
