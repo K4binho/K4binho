@@ -1,6 +1,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## 💡 Sobre mim:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&left=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;:%29)](https://git.io/typing-svg)
+
 - Eu me chamo Matheus Heinrique tenho 19 anos sou técnico em eletrônica e um desenvolvedor FullStack Jr:) 
 - formado em Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a> 
 - Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a><br>
