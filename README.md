@@ -5,8 +5,6 @@
 - Eu me chamo Matheus Heinrique tenho 19 anos sou técnico em eletrônica e um desenvolvedor FullStack Jr:) 
 - formado em Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">CubosAcademy.</a> 
 - Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI.</a><br>
-- Café é amor, café é vida, tome café.<br>
-- ♉ Sabedoria para resolver e paciência para fazer/refazer.
 
 ##
 
