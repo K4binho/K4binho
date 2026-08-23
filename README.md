@@ -30,27 +30,6 @@
   <img align="center" alt="GameMaker Studio 2" title="GameMaker Studio 2" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemakerstudio/gamemakerstudio-original.svg">
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/K4binho">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple"/>
-  </a>
-</div>
-
----
-
-### 🐍 Minhas Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
 ### 📬 Vamos nos conectar!
 
 <div align="center">
