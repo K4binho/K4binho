@@ -43,7 +43,7 @@
   <br><br>
   <a href="mailto:heinriquem158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus-heinrique-888312182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCr6xsD3VrYNbmq0KLLCXNLg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="[https://www.youtube.com/channel/UCr6xsD3VrYNbmq0KLLCXNL](https://www.youtube.com/@K4binho)g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/m_heinrique/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/K4binho"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
