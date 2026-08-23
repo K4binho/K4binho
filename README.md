@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="150" alt="Mario Coding" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="600" alt="Mario Coding" />
   
-  <br>
+  <br><br>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;Eu+me+chamo+Matheus+Heinrique+⚡;Sou+Desenvolvedor+FullStack+Jr+👨‍💻" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Tenho 23 anos, sou apaixonado por tecnologia e atuo na intersecção entre hardware e software. 
+Olá! Tenho 19 anos, sou apaixonado por tecnologia e atuo na intersecção entre hardware e software. 
 
 - 🎓 Formado em **Desenvolvimento de Software** pela <a href="https://github.com/cubos-academy">Cubos Academy</a>.
 - ⚡ Formado em **Técnico em Eletrônica** pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI</a>.
@@ -35,8 +35,8 @@ Olá! Tenho 23 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 
 <div align="center">
   <a href="https://github.com/K4binho">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
   </a>
 </div>
 
@@ -44,7 +44,7 @@ Olá! Tenho 23 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 
 ### 🐍 Minhas Contribuições
 <div align="center">
-  <img src="https://github.com/K4binho/K4binho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="800" />
 </div>
 
 ---
@@ -52,7 +52,7 @@ Olá! Tenho 23 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 ### 📫 Vamos nos conectar!
 
 <div align="center">
-  <img align="left" width="100px" height="90px" src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif">
+  <img align="center" width="100px" height="90px" src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif">
   <br>
   <a href="mailto:heinriquem158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-heinrique-888312182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
