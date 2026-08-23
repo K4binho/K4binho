@@ -36,25 +36,6 @@
 
 ---
 
-### 📊 GitHub Status
-
-<div align="center">
-  <a href="https://github.com/K4binho">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
-  </a>
-</div>
-
----
-
-### 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
 ### 📬 Contatos
 
 <div align="center">
