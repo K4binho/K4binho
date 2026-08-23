@@ -44,11 +44,9 @@
 ---
 
 ### 🐍 Minhas Contribuições
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
-
 ---
 
 ### 📬 Vamos nos conectar!
