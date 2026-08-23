@@ -1,14 +1,12 @@
-<!-- Banner do Mario (tamanho original e centralizado) -->
 <div align="center">
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Coding" />
 </div>
 
 <br>
 
-<!-- Typing SVG (centralizado, cor branca e tamanho 35) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;Eu+me+chamo+Matheus+Heinrique+⚡;Técnico+em+Eletrônica+e+FullStack+Jr!+👩‍💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;Eu+me+chamo+Matheus+Heinrique+⚡;Desenvolvedor+FullStack+Jr!+👩‍💻" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,20 +14,20 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Tenho 19 anos, sou apaixonado por tecnologia e atuo na intersecção entre hardware e software.
-
-- 🎓 Formado em **Desenvolvimento de Software** pela <a href="https://github.com/cubos-academy">Cubos Academy</a>.
-- ⚡ Formado em **Técnico em Eletrônica** pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI</a>.
-- 🚀 Buscando sempre evoluir e criar aplicações web eficientes e escaláveis.
+- Eu me chamo Matheus Heinrique, tenho 19 anos, sou técnico em eletrônica e um desenvolvedor FullStack Jr :)
+- 🎓 Formado em Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">Cubos Academy</a>.
+- ⚡ Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI</a>.
 
 ---
-### 🛠️ Minhas Tecnologias
+
+### 🛠️ Minhas Tecnologias e Engines
 
 <div align="center">
   <img align="center" alt="JavaScript" title="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" title="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML5" title="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" title="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GameMaker Studio 2" title="GameMaker Studio 2" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gamemakerstudio/gamemakerstudio-original.svg">
 </div>
 
 ---
