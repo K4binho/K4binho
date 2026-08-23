@@ -23,7 +23,6 @@ Olá! Tenho 19 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 - 🚀 Buscando sempre evoluir e criar aplicações web eficientes e escaláveis.
 
 ---
-
 ### 🛠️ Minhas Tecnologias
 
 <div align="center">
@@ -37,11 +36,10 @@ Olá! Tenho 19 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Estatísticas (tamanho original do usuário e centralizado) -->
 <div align="center">
   <a href="https://github.com/K4binho">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
 
@@ -49,18 +47,16 @@ Olá! Tenho 19 anos, sou apaixonado por tecnologia e atuo na intersecção entre
 
 ### 🐍 Minhas Contribuições
 
-<!-- Snake Animation (centralizada, link correto) -->
 <div align="center">
-  <img src="https://github.com/K4binho/K4binho/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
 
 ### 📬 Vamos nos conectar!
 
-<!-- Nao Tomori GIF e Botões Sociais centralizados -->
 <div align="center">
-  <img src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif" width="100px" height="90px" alt="Nao Tomori" />
+  <img src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif" width="100" height="90" alt="Nao Tomori" />
   <br><br>
   <a href="mailto:heinriquem158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-heinrique-888312182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
