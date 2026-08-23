@@ -1,58 +1,64 @@
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Coding" />
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="600" alt="Mario Coding" />
+  
+  <br><br>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo!;Eu+me+chamo+Matheus+Heinrique+⚡;Desenvolvedor+FullStack+Jr!+👩‍💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=A981FF&size=30&center=true&vCenter=true&width=800&lines=Olá,+seja+bem-vindo!;Eu+me+chamo+Matheus+Heinrique+⚡;Técnico+em+Eletrônica+⚙️;Desenvolvedor+FullStack+Jr!+💻" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Perfil & Tecnologias
 
-- Eu me chamo Matheus Heinrique, tenho 19 anos, sou técnico em eletrônica e um desenvolvedor FullStack Jr :)
-- 🎓 Formado em Desenvolvimento de Software pela <a href="https://github.com/cubos-academy">Cubos Academy</a>.
-- ⚡ Formado em eletrônica pelo <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI</a>.
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <b>Resumo Rápido</b>
+      <ul>
+        <li>Idade: 19 anos</li>
+        <li>🎓 Dev. de Software - <a href="https://github.com/cubos-academy">Cubos Academy</a></li>
+        <li>⚡ Téc. em Eletrônica - <a href="http://www2.ifam.edu.br/campus/cmdi">IFAM-CMDI</a></li>
+        <li>🚀 Focado na intersecção entre hardware e desenvolvimento web.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <b>Stack e Engines</b><br><br>
+      <img alt="JavaScript" title="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img alt="Node.js" title="Node.js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+      <img alt="HTML5" title="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="CSS3" title="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="GameMaker Studio 2" title="GameMaker Studio 2" height="35" width="35" src="https://cdn.simpleicons.org/gamemaker/white">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Minhas Tecnologias e Engines
-
-<div align="center">
-  <img align="center" alt="JavaScript" title="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node.js" title="Node.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML5" title="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" title="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GameMaker Studio 2" title="GameMaker Studio 2" height="50" width="50" src="https://cdn.simpleicons.org/gamemaker/white">
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Status
 
 <div align="center">
   <a href="https://github.com/K4binho">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=K4binho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4binho&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-### 🐍 Minhas Contribuições
+### 🐍 Contribuições
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/K4binho/K4binho/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
+
 ---
 
-### 📬 Vamos nos conectar!
+### 📬 Contatos
 
 <div align="center">
-  <img src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif" width="100" height="90" alt="Nao Tomori" />
+  <img src="https://c.tenor.com/__Nrx1uRHfQAAAAC/nao-tomori-nao.gif" width="90" height="80" alt="Nao Tomori" />
   <br><br>
   <a href="mailto:heinriquem158@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-heinrique-888312182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -60,4 +66,3 @@
   <a href="https://www.instagram.com/m_heinrique/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/K4binho"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-<br clear="left"/>
